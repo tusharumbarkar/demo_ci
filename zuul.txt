@@ -1,1 +1,2 @@
 1. zuul installation and configuration.
+5. setup openstack CI
